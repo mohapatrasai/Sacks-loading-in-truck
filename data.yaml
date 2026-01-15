@@ -1,0 +1,5 @@
+path: C:/Users/deepa/OneDrive/Desktop/exported_dataset
+train: images/train
+val: images/val
+nc: 2
+names: ['person','sack']
